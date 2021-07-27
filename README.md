@@ -1,9 +1,1 @@
-## I'm Seif Sameh! 👨‍💻
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/868242134996754504)](https://discord.com/users/868242134996754504)
-##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolba-00&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
-##
-![Visitor Count](https://profile-counter.glitch.me/tolba-00/count.svg)
-
-
+[![Visits Badge](https://badges.pufler.dev/visits/tolba-00/git-badges)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/tolba-00)](https://badges.pufler.dev)
