@@ -4,6 +4,6 @@
 ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolba-00&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 ##
-![Visitor Count](https : //profile-counter.glitch.me/tolba-00/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tolba-00/count.svg)
 
 
